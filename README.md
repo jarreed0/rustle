@@ -4,13 +4,11 @@ testing out rust with docker
 
 TODO
 
-[ ] Debian docker
+[x] rust docker
 
-[ ] install rust
+[x] port
 
-[ ] port
-
-[ ] rust host website w/ img
+[x] rust host website w/ img
 
 [ ] rust wait for connection
 
@@ -24,3 +22,8 @@ TODO
 
 [ ] cient rust to connect to server and send img
 
+[ ] kill docker easier
+
+[ ] nightly?
+
+[ ] production? secret key?
