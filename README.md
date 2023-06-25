@@ -2,6 +2,8 @@
 
 testing out rust with docker
 
+hosted on localhost:8501
+
 TODO
 
 [x] rust docker

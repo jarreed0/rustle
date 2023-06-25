@@ -4,3 +4,4 @@ version = "0.0.0"
 
 [dependencies]
 rocket = "0.4.11"
+image = "0.23.14"
